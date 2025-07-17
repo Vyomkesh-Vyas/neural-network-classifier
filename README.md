@@ -1,4 +1,3 @@
-# neural-network-classifier
 # Character Recognition with Neural Network (A, B, C)
 
 This project implements a simple feedforward neural network from scratch (using NumPy) to classify binary pixel patterns representing the letters **A**, **B**, and **C**. Each character is represented as a **5×6 (30-pixel)** binary grid. The model is trained using custom **backpropagation logic** and optimized to minimize classification error.
